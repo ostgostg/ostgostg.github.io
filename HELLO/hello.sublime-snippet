@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+    <!DOCTYPE html>
+<html ng-app>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Привет</title>
+    <base href="/">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
+    <link rel="stylesheet/less" href="css/style.less">
+    <script src="less.min.js"></script>
+    <link rel="canonical" href="https://ostgostg.channel.ru/">
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Anton|Baloo+Tammudu|Chango|Fredoka+One|Indie+Flower|Monoton|Nokora|Pacifico|Righteous" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Acme|Anton|Fjalla+One|Lato|Merienda|Oswald|Pacifico|Permanent+Marker|Raleway|Roboto" rel="stylesheet">
+</head>
+]]>
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>col-12</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
+!
